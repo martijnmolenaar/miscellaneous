@@ -1,0 +1,193 @@
+pox_x,pos_y,A450,position,cells,treatment,concentration,living_cells
+1,B,0.3999,B1,rHSC d7,thioperamide,1.5625,99.50228121
+2,B,0.3514,B2,rHSC d7,thioperamide,1.5625,59.27001244
+3,B,0.3724,B3,rHSC d7,desipramine,1.5625,76.69017005
+4,B,0.3642,B4,rHSC d7,desipramine,1.5625,69.88801327
+5,B,0.3594,B5,rHSC d7,terfenadine,1.5625,65.90626296
+6,B,0.365,B6,rHSC d7,terfenadine,1.5625,70.55163832
+7,B,0.3762,B7,rHSC d7,siramesine,1.5625,79.84238905
+8,B,0.3698,B8,rHSC d7,siramesine,1.5625,74.53338864
+1,C,0.385,C1,rHSC d7,thioperamide,3.125,87.14226462
+2,C,0.3661,C2,rHSC d7,thioperamide,3.125,71.46412277
+3,C,0.3644,C3,rHSC d7,desipramine,3.125,70.05391954
+4,C,0.3878,C4,rHSC d7,desipramine,3.125,89.4649523
+5,C,0.2911,C5,rHSC d7,terfenadine,3.125,9.24927416
+6,C,0.2868,C6,rHSC d7,terfenadine,3.125,5.682289506
+7,C,0.3475,C7,rHSC d7,siramesine,3.125,56.03484032
+8,C,0.3557,C8,rHSC d7,siramesine,3.125,62.8369971
+1,D,0.3695,D1,rHSC d7,thioperamide,6.25,74.28452924
+2,D,0.3493,D2,rHSC d7,thioperamide,6.25,57.52799668
+3,D,0.3734,D3,rHSC d7,desipramine,6.25,77.51970137
+4,D,0.3491,D4,rHSC d7,desipramine,6.25,57.36209042
+5,D,0.283,D5,rHSC d7,terfenadine,6.25,2.53007051
+6,D,0.2827,D6,rHSC d7,terfenadine,6.25,2.281211116
+7,D,0.307,D7,rHSC d7,siramesine,6.25,22.43882207
+8,D,0.3515,D8,rHSC d7,siramesine,6.25,59.35296557
+1,E,0.4257,E1,rHSC d7,thioperamide,12.5,120.9041891
+2,E,0.3638,E2,rHSC d7,thioperamide,12.5,69.55620075
+3,E,0.3259,E3,rHSC d7,desipramine,12.5,38.11696392
+4,E,0.323,E4,rHSC d7,desipramine,12.5,35.7113231
+5,E,0.4042,E5,rHSC d7,terfenadine,12.5,NA
+6,E,0.2793,E6,rHSC d7,terfenadine,12.5,-0.539195355
+7,E,0.3089,E7,rHSC d7,siramesine,12.5,24.01493156
+8,E,0.2971,E8,rHSC d7,siramesine,12.5,14.22646205
+1,F,0.3713,F1,rHSC d7,thioperamide,25,75.77768561
+2,F,0.3665,F2,rHSC d7,thioperamide,25,71.7959353
+3,F,0.2852,F3,rHSC d7,desipramine,25,4.355039403
+4,F,0.2776,F4,rHSC d7,desipramine,25,-1.94939859
+5,F,0.3157,F5,rHSC d7,terfenadine,25,29.6557445
+6,F,0.274,F6,rHSC d7,terfenadine,25,-4.935711323
+7,F,0.2695,F7,rHSC d7,siramesine,25,-8.66860224
+8,F,0.2671,F8,rHSC d7,siramesine,25,-10.6594774
+1,B,0.5359,B1,LX-2,siramesine,1.5625,33.37151474
+2,B,0.7037,B2,LX-2,siramesine,1.5625,47.96937755
+3,B,1.3194,B3,LX-2,terfenadine,1.5625,101.5325726
+4,B,0.2632,B4,LX-2,terfenadine,1.5625,9.647812785
+5,B,0.9856,B5,LX-2,desipramine,1.5625,72.49343908
+6,B,1.2445,B6,LX-2,desipramine,1.5625,95.01660166
+7,B,1.3814,B7,LX-2,thioperamide,1.5625,106.9263002
+8,B,0.6754,B8,LX-2,thioperamide,1.5625,45.50740188
+1,C,0.5069,C1,LX-2,siramesine,3.125,30.84864214
+2,C,0.622,C2,LX-2,siramesine,3.125,40.86183648
+3,C,0.689,C3,LX-2,terfenadine,3.125,46.69054213
+4,C,0.7672,C4,LX-2,terfenadine,3.125,53.49359857
+5,C,0.8329,C5,LX-2,desipramine,3.125,59.20920993
+6,C,0.8522,C6,LX-2,desipramine,3.125,60.88822514
+7,C,0.9799,C7,LX-2,thioperamide,3.125,71.99756412
+8,C,0.9965,C8,LX-2,thioperamide,3.125,73.44169119
+1,D,0.5058,D1,LX-2,siramesine,6.25,30.75294698
+2,D,0.6669,D2,LX-2,siramesine,6.25,44.76793922
+3,D,0.7184,D3,LX-2,terfenadine,6.25,49.24821297
+4,D,0.8071,D4,LX-2,terfenadine,6.25,56.96472328
+5,D,0.7676,D5,LX-2,desipramine,6.25,53.52839682
+6,D,0.7539,D6,LX-2,desipramine,6.25,52.336557
+7,D,0.8292,D7,LX-2,thioperamide,6.25,58.88732619
+8,D,0.8933,D8,LX-2,thioperamide,6.25,64.46374458
+1,E,0.3795,E1,LX-2,siramesine,12.5,19.76540185
+2,E,0.4378,E2,LX-2,siramesine,12.5,24.83724572
+3,E,0.5624,E3,LX-2,terfenadine,12.5,35.67689832
+4,E,0.7312,E4,LX-2,terfenadine,12.5,50.36175673
+5,E,0.794,E5,LX-2,desipramine,12.5,NA
+6,E,0.7782,E6,LX-2,desipramine,12.5,54.45055025
+7,E,0.7465,E7,LX-2,thioperamide,12.5,51.69278951
+8,E,0.739,E8,LX-2,thioperamide,12.5,51.04032246
+1,F,0.3536,F1,LX-2,siramesine,25,17.51221563
+2,F,0.3301,F2,LX-2,siramesine,25,15.46781888
+3,F,0.2442,F3,LX-2,terfenadine,25,7.994896258
+4,F,0.5656,F4,LX-2,terfenadine,25,35.95528426
+5,F,0.6638,F5,LX-2,desipramine,25,44.49825284
+6,F,0.6779,F6,LX-2,desipramine,25,45.72489089
+7,F,0.7373,F7,LX-2,thioperamide,25,50.89242993
+8,F,0.6949,F8,LX-2,thioperamide,25,47.20381621
+1,H,1.713,H1,HeLa,siramesine,1.5625,95.27166274
+2,H,1.5664,H2,HeLa,siramesine,1.5625,85.97562909
+3,H,1.564,H3,HeLa,terfenadine,1.5625,85.823443
+4,H,1.7453,H4,HeLa,terfenadine,1.5625,97.31983386
+5,H,1.6797,H5,HeLa,desipramine,1.5625,93.16008074
+6,H,1.6773,H6,HeLa,desipramine,1.5625,93.00789465
+7,H,1.918,H7,HeLa,thioperamide,1.5625,108.2708912
+8,H,1.765,H8,HeLa,thioperamide,1.5625,98.56902802
+1,I,0.21,I1,HeLa,siramesine,3.125,-0.034875979
+2,I,1.6759,I2,HeLa,siramesine,3.125,92.91911943
+3,I,1.7179,I3,HeLa,terfenadine,3.125,95.58237601
+4,I,1.7517,I4,HeLa,terfenadine,3.125,97.72566344
+5,I,1.6888,I5,HeLa,desipramine,3.125,93.73711967
+6,I,1.7981,I6,HeLa,desipramine,3.125,100.6679278
+7,I,1.9515,I7,HeLa,thioperamide,3.125,110.3951554
+8,I,1.9971,I8,HeLa,thioperamide,3.125,113.2866911
+1,J,1.3665,J1,HeLa,siramesine,6.25,73.29979603
+2,J,1.3824,J2,HeLa,siramesine,6.25,74.30802887
+3,J,1.5499,J3,HeLa,terfenadine,6.25,84.92934972
+4,J,1.6399,J4,HeLa,terfenadine,6.25,90.63632809
+5,J,1.5997,J5,HeLa,desipramine,6.25,88.08721108
+6,J,1.8035,J6,HeLa,desipramine,6.25,101.0103465
+7,J,1.7514,J7,HeLa,thioperamide,6.25,97.70664018
+8,J,1.7304,J8,HeLa,thioperamide,6.25,96.37501189
+1,K,0.323,K1,HeLa,siramesine,12.5,7.130552414
+2,K,0.3485,K2,HeLa,siramesine,12.5,8.747529618
+3,K,1.4409,K3,HeLa,terfenadine,12.5,78.01756481
+4,K,1.7821,K4,HeLa,terfenadine,12.5,99.65335391
+5,K,1.8098,K5,HeLa,desipramine,12.5,101.409835
+6,K,1.5915,K6,HeLa,desipramine,12.5,87.56724194
+7,K,1.7895,K7,HeLa,thioperamide,12.5,100.1225944
+8,K,1.9638,K8,HeLa,thioperamide,12.5,111.1751091
+1,L,0.2493,L1,HeLa,siramesine,25,2.457171241
+2,L,0.258,L2,HeLa,siramesine,25,3.008845816
+3,L,1.8059,L3,HeLa,terfenadine,25,101.1625326
+4,L,1.5271,L4,HeLa,terfenadine,25,83.48358187
+5,L,1.7554,L5,HeLa,desipramine,25,97.96028366
+6,L,1.7838,L6,HeLa,desipramine,25,99.76115239
+7,L,1.7612,L7,HeLa,thioperamide,25,98.32806671
+8,L,2.1814,L8,HeLa,thioperamide,25,124.9733146
+1,A,0.3795,A1,rHSC d7,thioperamide,0,82.57984239
+2,A,0.3638,A2,rHSC d7,thioperamide,0,69.55620075
+3,A,0.4447,A3,rHSC d7,thioperamide,0,136.6652841
+6,A,0.3956,A6,rHSC d7,thioperamide,0,95.93529656
+7,A,0.4333,A7,rHSC d7,thioperamide,0,127.2086271
+8,A,0.3861,A8,rHSC d7,thioperamide,0,88.05474907
+1,A,0.6196,A1,LX-2,thioperamide,0,40.65304702
+2,A,1.1647,A2,LX-2,thioperamide,0,88.07435225
+5,A,0.9391,A5,LX-2,thioperamide,0,68.44814337
+6,A,1.2444,A6,LX-2,thioperamide,0,95.0079021
+7,A,1.7593,A7,LX-2,thioperamide,0,139.80194
+8,A,2.0836,A8,LX-2,thioperamide,0,168.0146153
+1,G,1.8869,G1,HeLa,thioperamide,0,106.2988132
+2,G,1.4972,G2,HeLa,thioperamide,0,81.58759683
+5,G,1.8758,G5,HeLa,thioperamide,0,105.5949525
+6,G,1.6787,G6,HeLa,thioperamide,0,93.09666987
+7,G,1.8994,G7,HeLa,thioperamide,0,107.091449
+8,G,1.8874,G8,HeLa,thioperamide,0,106.3305186
+1,A,0.3795,A1,rHSC d7,desipramine,0,82.57984239
+2,A,0.3638,A2,rHSC d7,desipramine,0,69.55620075
+3,A,0.4447,A3,rHSC d7,desipramine,0,136.6652841
+6,A,0.3956,A6,rHSC d7,desipramine,0,95.93529656
+7,A,0.4333,A7,rHSC d7,desipramine,0,127.2086271
+8,A,0.3861,A8,rHSC d7,desipramine,0,88.05474907
+1,A,0.6196,A1,LX-2,desipramine,0,40.65304702
+2,A,1.1647,A2,LX-2,desipramine,0,88.07435225
+5,A,0.9391,A5,LX-2,desipramine,0,68.44814337
+6,A,1.2444,A6,LX-2,desipramine,0,95.0079021
+7,A,1.7593,A7,LX-2,desipramine,0,139.80194
+8,A,2.0836,A8,LX-2,desipramine,0,168.0146153
+1,G,1.8869,G1,HeLa,desipramine,0,106.2988132
+2,G,1.4972,G2,HeLa,desipramine,0,81.58759683
+5,G,1.8758,G5,HeLa,desipramine,0,105.5949525
+6,G,1.6787,G6,HeLa,desipramine,0,93.09666987
+7,G,1.8994,G7,HeLa,desipramine,0,107.091449
+8,G,1.8874,G8,HeLa,desipramine,0,106.3305186
+1,A,0.3795,A1,rHSC d7,terfenadine,0,82.57984239
+2,A,0.3638,A2,rHSC d7,terfenadine,0,69.55620075
+3,A,0.4447,A3,rHSC d7,terfenadine,0,136.6652841
+6,A,0.3956,A6,rHSC d7,terfenadine,0,95.93529656
+7,A,0.4333,A7,rHSC d7,terfenadine,0,127.2086271
+8,A,0.3861,A8,rHSC d7,terfenadine,0,88.05474907
+1,A,0.6196,A1,LX-2,terfenadine,0,40.65304702
+2,A,1.1647,A2,LX-2,terfenadine,0,88.07435225
+5,A,0.9391,A5,LX-2,terfenadine,0,68.44814337
+6,A,1.2444,A6,LX-2,terfenadine,0,95.0079021
+7,A,1.7593,A7,LX-2,terfenadine,0,139.80194
+8,A,2.0836,A8,LX-2,terfenadine,0,168.0146153
+1,G,1.8869,G1,HeLa,terfenadine,0,106.2988132
+2,G,1.4972,G2,HeLa,terfenadine,0,81.58759683
+5,G,1.8758,G5,HeLa,terfenadine,0,105.5949525
+6,G,1.6787,G6,HeLa,terfenadine,0,93.09666987
+7,G,1.8994,G7,HeLa,terfenadine,0,107.091449
+8,G,1.8874,G8,HeLa,terfenadine,0,106.3305186
+1,A,0.3795,A1,rHSC d7,siramesine,0,82.57984239
+2,A,0.3638,A2,rHSC d7,siramesine,0,69.55620075
+3,A,0.4447,A3,rHSC d7,siramesine,0,136.6652841
+6,A,0.3956,A6,rHSC d7,siramesine,0,95.93529656
+7,A,0.4333,A7,rHSC d7,siramesine,0,127.2086271
+8,A,0.3861,A8,rHSC d7,siramesine,0,88.05474907
+1,A,0.6196,A1,LX-2,siramesine,0,40.65304702
+2,A,1.1647,A2,LX-2,siramesine,0,88.07435225
+5,A,0.9391,A5,LX-2,siramesine,0,68.44814337
+6,A,1.2444,A6,LX-2,siramesine,0,95.0079021
+7,A,1.7593,A7,LX-2,siramesine,0,139.80194
+8,A,2.0836,A8,LX-2,siramesine,0,168.0146153
+1,G,1.8869,G1,HeLa,siramesine,0,106.2988132
+2,G,1.4972,G2,HeLa,siramesine,0,81.58759683
+5,G,1.8758,G5,HeLa,siramesine,0,105.5949525
+6,G,1.6787,G6,HeLa,siramesine,0,93.09666987
+7,G,1.8994,G7,HeLa,siramesine,0,107.091449
+8,G,1.8874,G8,HeLa,siramesine,0,106.3305186
